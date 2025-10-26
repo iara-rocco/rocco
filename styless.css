@@ -1,0 +1,27 @@
+html{
+    text-align: center;
+}
+h2{
+    text-shadow: 0px 0px 5px turquoise;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    padding: 20px;
+    text-decoration: overline underline;
+    color: #444
+    font-style:italic
+}
+h3{
+    text-transform: capitalize;
+    color:blueviolet
+}
+p{
+    color:#153
+}
+body{
+    background-color:rosybrown;
+}
+img{
+    width: 200px;
+    border-radius: 30%;
+    box-shadow: 0 0 40px 0 #444;
+}
